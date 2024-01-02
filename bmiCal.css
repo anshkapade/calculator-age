@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(203, 225, 255);
+    font-family: "Poppins";
+    background-size: contain;
+    box-sizing: content-box;
+    height: auto;
+    width: max-content;
+    padding: 50px;
+    margin: 150px;
+    border-color: black;
+    border-style: solid ;
+     
+  }
+  h2 {
+    padding-left: 50px;
+    background-color: azure;
+  }
+  h4{
+    background-color: azure;
+  }
+  p {
+    padding-left: 70px;
+    background-color: azure;
+  }
+  .div1 {
+    float: left;
+    padding-right: 20px;
+    margin-bottom: 20px;
+    padding-left: 30px;
+    box-sizing: border-box;
+  }
+  
+  #input1,
+  #input2 {
+    background-color: rgb(240, 239, 154);
+  }
+  #button1,
+  #button2 {
+    border: 2px;
+    border-radius: 12px;
+    color: black;
+    padding: 15px 40px;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(247, 108, 108);
+  } 
